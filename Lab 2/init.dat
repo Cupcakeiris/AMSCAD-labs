@@ -1,0 +1,5 @@
+# Source temperature in Celsius
+T_source = 200
+
+# Initial temperature
+T_init = 25
