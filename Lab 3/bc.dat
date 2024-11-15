@@ -1,0 +1,5 @@
+# Boundary conditions, D - Dirichlet, N - Neumann
+# First line is left b.c., next line is right b.c.
+
+R: a=1 b=0 20
+N: 0

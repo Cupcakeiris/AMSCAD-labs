@@ -1,0 +1,16 @@
+# Parameters
+
+# Nodes
+Nx = 50
+time_iter = 1000
+
+# Batch to plot countors
+batch = 100
+
+# Length of rod
+L = 1
+
+# Diffusivity coefficients' parameters. Measured in SI units
+k_1 = 237
+cp_1 = 900
+rho_1 = 2710
